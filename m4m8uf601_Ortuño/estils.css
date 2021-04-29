@@ -1,0 +1,28 @@
+body{
+  background-color: green;
+  font-family: 'Roboto', sans-serif;
+}
+
+.cuadrets {
+  width: 150px;
+  height: 150px;
+  margin: 20px;
+  background-color: yellow;
+  margin:20px;
+}
+
+#uno {
+  background-color: orange;
+}
+
+#dos {
+  background-color: red;
+}
+
+#tres {
+  background-color: pink;
+}
+
+#cuatre {
+  background-color: purple;
+}
