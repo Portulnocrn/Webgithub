@@ -1,0 +1,102 @@
+body{
+  margin: 0;
+  padding: 0;
+  color: #666;
+  background: #f2f2f2;
+}
+
+a{
+  color: white;
+}
+
+h1{
+  	font-size: 2.3em;
+  	line-height: 1.3em;
+  	margin: 15px 0;
+  	text-align: center;
+  	font-weight: 300;
+}
+  .cuadrets {
+    width: 140px;
+    height: 140px;
+    color: white;
+    background-color: #333;
+    float: left;
+    margin: 50px;
+    text-align: center;
+    line-height: 150px;
+    margin-left: 105px;
+    box-shadow: 0 2px 3px 0px rgba(0, 0, 0, 0.25);
+    clip-path: polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+  }
+  .cuadrets:hover{
+  filter: blur(3px);
+  opacity: 0.5;
+  transform: scale(0.98);
+  box-shadow: none;
+}
+
+
+  #contenidor {
+    height: 1;
+    margin: 0 auto;
+  }
+
+  #un{
+background-color: #FF6565;
+
+ }
+
+ #dos{
+  background-color: #FF9465;
+ }
+
+ #tres{
+ background-color: #FFE165;
+
+ }
+#cuatre{
+ background-color: #CCFF65;
+}
+#cinc{
+ background-color: #65FFC9;
+}
+#sis{
+  clear: both;
+  background-color: #65FFFA;
+}
+#set{
+ background-color: #6E65FF;
+}
+#buit{
+ background-color: #A965FF;
+}
+
+#nou{
+ background-color: #EF65FF;
+}
+
+#deu{
+ background-color: #FF65C0;
+}
+#once{
+ background-color: #FF65C0;
+}
+#dotze{
+ background-color: #FF6565;
+}
+#tretze{
+ background-color: #FF9465;
+}
+#catorze{
+ background-color: #FFE165;
+}
+#quince{
+ background-color: #65FFFA;
+}
+#quince1{
+ background-color: #A965FF;
+}
+#quince2{
+ background-color: #EF65FF;
+}
