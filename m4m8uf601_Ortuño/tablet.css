@@ -1,0 +1,19 @@
+@media screen and (min-width: 324px) and (max-width: 767px)  {
+  body {
+    background-color: orange;
+  }
+  #uno {
+    background-color: white;
+  }
+
+  #dos {
+    background-color: red;
+  }
+
+  #tres {
+    background-color: pink;
+  }
+
+  #cuatre {
+    background-color: purple;
+  }
