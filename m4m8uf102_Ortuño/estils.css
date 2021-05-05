@@ -1,0 +1,90 @@
+body{
+
+}
+
+.pelo{
+  background-color: #5A4631;
+  width: 400px;
+  height: 400px;
+  clip-path: polygon(47% 50%, 69% 71%, 91% 78%, 100% 100%, 80% 100%, 0 100%, 0% 80%, 13% 66%);
+  position: absolute;
+  left: 300px;
+
+}
+.cara{
+  background-color: #EFDFCB;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 300px;
+  top: 330px;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+
+}
+.ulldret{
+  background-color: #FFFFFF;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 320px;
+  top: 350px;
+  clip-path: circle(30% at 50% 50%);
+
+}
+.pupiladret{
+  background-color: #3C8C52;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 320px;
+  top: 350px;
+  clip-path: circle(15% at 50% 50%);
+}
+.pupiladretnegre{
+  background-color: #000000;
+  width: 150px;
+  height: 150px;
+  clip-path: circle(10% at 50% 50%);
+}
+
+.ulles{
+  background-color: #FFFFFF;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 500px;
+  top: 350px;
+  clip-path: circle(30% at 50% 50%);
+
+}
+.pupilaes{
+  background-color: #3C8C52;
+  width: 150px;
+  height: 150px;
+  clip-path: circle(15% at 50% 50%);
+}
+.pupiladretes{
+  background-color: #000000;
+  width: 150px;
+  height: 150px;
+  clip-path: circle(10% at 50% 50%);
+}
+.nas{
+  background-color: #F3A4A4;
+  width: 50px;
+  height: 50px;
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  position: absolute;
+  left: 460px;
+  top: 490px;
+}
+.boca{
+  background-color: #FFFFFF;
+  width: 200px;
+  height: 200px;
+ clip-path: polygon(30% 51%, 74% 51%, 100% 50%, 63% 82%, 44% 83%, 0% 50%);
+ position: absolute;
+ left: 430px;
+ top: 500px;
+
+}
