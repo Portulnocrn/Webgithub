@@ -1,0 +1,14 @@
+body {
+  background-color: pink;
+}
+div {
+  background-color: white;
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  font-size: 50px;
+  text-align: center;
+  line-height: -150px;
+  border-radius: 15px;
+  border: dashed white 5px;
+}
